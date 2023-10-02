@@ -6,7 +6,7 @@ Chrome extension project from Zuri HNGX Stage 5 Internship
 * View recorded video 
 
 # Proof of Concept
-https://drive.google.com/file/d/1sEkJ2Lj1VUGKPVHgyHOxRY13H2AcGLNE/view?usp=drivesdk
+https://drive.google.com/file/d/1saHhDLl_rDbhg6Lad4wkHew1gAYjYVR2/view?usp=drivesdk
 
 # Setup
 * Download ```build``` folder
