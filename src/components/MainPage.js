@@ -113,6 +113,94 @@ export default function MainPage() {
             </div>
           </section>
 
+          <div className="mobile-items">
+
+            <h1>Your video is ready!</h1>
+
+            <p>Name</p>
+            <div className="video-title-edit">
+              <h3>Untitled_Video_124</h3>
+              <img src="assets/edit.svg" alt="edit icon" />
+            </div>
+            <video controls className="mobile"/>
+
+            <form>
+              <input type="email" placeholder="Enter email of receiver"/>
+              <button>
+                Send
+              </button>
+            </form>
+
+            <p className="email-text">
+              Your video to johnmark@gmail.com is now ready.
+            </p>  
+
+            <a href="#" className="not-receiver">Not the receiver?</a>
+            
+            
+            <div className="share-social">
+
+              <div className="copy-container">
+                <img src="assets/copy.svg" alt="copy icon"/>
+                Copy video link
+              </div>
+
+              <a href="#">
+                <button>
+                  <img src="assets/facebook.svg" alt="facebook icon"/>
+                  
+                </button>
+              </a>
+
+              <a href="#">
+                <button>
+                  <img src="assets/whatsapp.svg" alt="whatsapp icon" id="whatsapp-icon" />
+                  
+                </button>
+              </a>
+
+              <a href="#">
+                <button>
+                  <img src="assets/telegram.svg" alt="telegram icon"/>
+                </button>
+              </a>
+            </div>
+
+            <h3>Transcript</h3>
+            <div className="transcripts">
+              <div className="transcript">
+                <span>0.01</span>
+                <p>This is a translation of the highest order</p>
+              </div>
+              
+              <div className="transcript">
+                <span>0.03</span>
+                <p>This is a translation of the highest order</p>
+              </div>
+
+              <div className="transcript">
+                <span>0.04</span>
+                <p>This is a translation of the highest order</p>
+              </div>
+
+              <div className="transcript">
+                <span>0.05</span>
+                <p>This is a translation of the highest order</p>
+              </div>
+
+              <div className="transcript">
+                <span>0.05</span>
+                <p>This is a translation of the highest order</p>
+              </div>
+
+              <div className="transcript">
+                <span>0.06</span>
+                <p>This is a translation of the highest order</p>
+              </div>
+            </div>
+
+          </div>
+
         </main>
 
         <section className="banner">
