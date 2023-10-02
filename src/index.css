@@ -12,6 +12,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* Styles for browser extension */
+
 .popup-wrapper {
   border-radius: 20px;
   padding: 16px;
@@ -461,7 +463,7 @@ select {
     width: 32px;
   }
 
-  h3 {
+  .mobile-items h3 {
     margin-bottom: 16px;
   }
 
