@@ -55,7 +55,7 @@ export default function MainPage() {
       </p>
 
     </div>
-  )
+  );
 
   return (
     <>
